@@ -4,6 +4,7 @@
 #include <istream>
 #include <expected>
 #include <string>
+#include <vector>
 
 namespace stock_prices
 {
